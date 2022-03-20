@@ -1,0 +1,3 @@
+Biology: 50(lect) 50(pract) 100(lab)
+Physic: 20(lect) - 50(lab)
+Mathematic: 100(lec) 100(pract) -
